@@ -1,4 +1,4 @@
-
+![](https://ru.pinterest.com/pin/3237030973727115/)
 <h3 align="center">I am a budding data scientist.</h3>
 
 - 🔭 I’m currently working on [projects related to AI in medicine.](https://cdmldegqbxtxnekmjdshfy.streamlit.app)
