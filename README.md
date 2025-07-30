@@ -1,5 +1,5 @@
-![](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
-<h3 align="center">I am a budding data scientist.</h3>
+<h3 align="center">Hi there 👋, my name is Olga.</h3>
+I am a budding data scientist
 
 - 🔭 I’m currently working on [projects related to AI in medicine.](https://cdmldegqbxtxnekmjdshfy.streamlit.app)
 
